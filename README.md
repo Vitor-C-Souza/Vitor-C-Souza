@@ -5,6 +5,8 @@
 
 ![Vítor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitor-C-Souza&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-C-Souza&layout=compact)
+
 ## Técnologias que tenho conhecimento
 
 <div style="display: inline_block"><br/>
