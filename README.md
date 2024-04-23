@@ -24,4 +24,4 @@
     <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
 </div><br/>
 
-Apaixonado por técnologia e programação
+Apaixonado por tecnologia e programação
