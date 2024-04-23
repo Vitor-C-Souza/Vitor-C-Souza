@@ -8,7 +8,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-C-Souza&layout=compact)
 
-## Técnologias que tenho conhecimento
+## Trcnologias que tenho conhecimento
 
 <div style="display: inline_block"><br/>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
