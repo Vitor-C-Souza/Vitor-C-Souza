@@ -1,32 +1,56 @@
-# Hi 👋, I'm Vítor Cavalcante Souza
+<h1 align="center">Olá, eu sou o Vítor 👋</h1>
 
-### A seasoned Java developer
-
-
-- 🔭 I'm currently working on **A fintech project called PayFlow is a simplified digital payment platform inspired by modern fintech architectures.**
-
-- 🌱 I'm currently learning **Data Engineer (Python, SQL and Spark)**
-
-- 👯 I'm looking to collaborate on **Open Source React/Spring boot projects**
-
-- 🤝 I'm looking for help with **Scalable System Design and Microservices architectures**
-
-- 💬 Ask me about **Java, Spring boot, React, TypeScript, JavaScript, Web Development, MySql, MongoDB, Redis, Postgresql, Docker, AWS, Scrum, Kanban**
-
-- 📫 How to reach me **vitor_souza97@hotmail.com**
-
-- ⚡ Fun fact **I love to play yu-gi-oh tcg, and to talk about**
-
-- 👨‍💻 All of my projects are available at **[https://github.com/Vitor-C-Souza](https://github.com/Vitor-C-Souza)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Vitor-C-Souza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Vitor-C-Souza" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vitorcavalcantesouza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vitorcavalcantesouza" height="30" width="40" /></a>
+<p align="center">
+  Desenvolvedor <strong>Backend Java</strong> focado em APIs escaláveis, alta performance e boas práticas de engenharia de software.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/angular" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/angularjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angularjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cypress" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cypress" alt="cypress" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/grafana" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/graphql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kafka" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nestjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/oracle" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rabbitMQ" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rabbitmq" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+---
+
+## 👨‍💻 Sobre mim
+
+- 🔭 Atuando como **Desenvolvedor Full Stack** na Grooworks, com foco forte em backend.
+- 💻 Trabalho principalmente com **Java, Spring Boot e Kotlin**, construindo APIs REST para sistemas reais com alto volume de dados.
+- 🗄️ Experiência com **MySQL, PostgreSQL e MongoDB**, usando Hibernate/JPA para persistência.
+- ☁️ Deploy e infraestrutura com **Docker**, **CI/CD** e **AWS** (EC2, S3, RDS).
+- 🌐 Base em **React + TypeScript** e plataformas low-code/no-code (Bubble, WeWeb).
+- 📚 Sempre estudando arquitetura, código limpo e boas práticas em Java.
+- 📍 São Paulo – SP, Brasil
+
+---
+
+## 🛠️ Tech Stack
+
+**Linguagens e Backend**
+
+- Java • Kotlin  
+- Spring Boot • Spring Data • Spring Security  
+- REST APIs • GraphQL  
+
+**Banco de Dados e Cache**
+
+- MySQL • PostgreSQL • MongoDB  
+- Redis  
+
+**DevOps e Cloud**
+
+- Docker  
+- CI/CD (GitHub Actions e similares)  
+- AWS (EC2, S3, RDS)  
+
+**Frontend e Outros**
+
+- React • TypeScript  
+- Bubble • WeWeb  
+- Git • GitHub  
+- Metodologias Ágeis (Scrum, Kanban)
+
+---
+
+## 📂 Onde me encontrar
+
+- 💼 LinkedIn: [linkedin.com/in/vitorcavalcantesouza](https://www.linkedin.com/in/vitorcavalcantesouza)
+- 🧑‍💻 GitHub: [github.com/Vitor-C-Souza](https://github.com/Vitor-C-Souza)
+- ✉️ E-mail: **vitor_souza97@hotmail.com**
 
 
 ###
