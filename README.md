@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=250&section=header&text=Vítor%20Souza&fontSize=80&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Vítor%20Souza&fontSize=80&animation=fadeIn&fontColor=ffffff" width="100%" />
 
   <h3>📱 Android Specialist | ⚙️ Backend Expert | 🚀 Fullstack Enthusiast</h3>
 
