@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  Desenvolvedor <strong>Backend Java</strong> focado em APIs escaláveis, alta performance e boas práticas de engenharia de software.
+  Desenvolvedor <strong>Backend & Mobile</strong> focado em sistemas escaláveis, alta performance e experiências mobile nativas.
 </p>
 
 <p align="center">
@@ -21,12 +21,13 @@
 
 ### 👨‍💻 Sobre mim
 
-- 🔭 Atuando como **Desenvolvedor Full Stack** na Grooworks, com foco forte em backend.
-- 💻 Trabalho principalmente com **Java, Spring Boot e Kotlin**, construindo APIs REST para sistemas reais com alto volume de dados.
-- 🗄️ Experiência com **MySQL, PostgreSQL e MongoDB**, usando Hibernate/JPA para persistência.
-- ☁️ Deploy e infraestrutura com **Docker**, **CI/CD** e **AWS** (EC2, S3, RDS).
-- 🌐 Base em **React + TypeScript** e plataformas low-code/no-code (Bubble, WeWeb).
-- 📚 Sempre estudando arquitetura, código limpo e boas práticas em Java.
+- 🔭 Atuando como **Desenvolvedor Full Stack** na Grooworks, unindo robustez no backend e fluidez no mobile.
+- 📱 Especialista em desenvolvimento **Android Nativo** (Kotlin/Java), com foco em arquitetura MVVM, Jetpack Compose e consumo de APIs.
+- 💻 No backend, trabalho com **Java, Spring Boot e Kotlin**, construindo APIs REST escaláveis e seguras.
+- 🗄️ Experiência com **MySQL, PostgreSQL e MongoDB**, garantindo persistência de dados eficiente.
+- ☁️ Conhecimentos em **Docker**, **CI/CD** e **AWS** (EC2, S3, RDS).
+- 🌐 Base em **React + TypeScript** e vivência com plataformas low-code.
+- 📚 Entusiasta de Clean Code, SOLID e Design Patterns.
 - 📍 São Paulo – SP, Brasil
 
 ---
@@ -35,7 +36,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,hibernate,mysql,postgres,mongodb,redis,docker,aws,githubactions,react,ts,git&perline=7" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,android,spring,hibernate,mysql,postgres,mongodb,docker,aws,githubactions,react,ts,git&perline=8" />
   </a>
 </p>
 
