@@ -46,10 +46,21 @@ Desenvolvedor focado em entregar valor através de código limpo e soluções es
 
 ### 🚀 Projetos em Destaque / Featured Projects
 
-<!-- Repita este bloco para seus 2 ou 3 melhores projetos -->
 <div align="center">
-  <a href="https://github.com/Vitor-C-Souza/SEU_MELHOR_PROJETO">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vitor-C-Souza&repo=Vitor-C-Souza&theme=omni" />
+  <a href="https://github.com/Vitor-C-Souza/prodmanager-challenge">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vitor-C-Souza&repo=prodmanager-challenge&theme=omni" />
+  </a>
+  <a href="https://github.com/Vitor-C-Souza/estetica_premium">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vitor-C-Souza&repo=estetica_premium&theme=omni" />
+  </a>
+</div>
+<br/>
+<div align="center">
+  <a href="https://github.com/Vitor-C-Souza/TrainPlus">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vitor-C-Souza&repo=TrainPlus&theme=omni" />
+  </a>
+  <a href="https://github.com/Vitor-C-Souza/Pokedex">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vitor-C-Souza&repo=Pokedex&theme=omni" />
   </a>
 </div>
 
