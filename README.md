@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Vítor%20Souza&fontSize=80&animation=fadeIn&fontColor=ffffff" width="100%" />
 
-  <h2>Backend Developer</h2>
-  <p><strong>Java • Spring Boot • APIs • Databases • Cloud & DevOps</strong></p>
+  <h2>Backend Developer | Java & Spring Boot</h2>
+  <p><strong>APIs • Reactive Systems • Databases • Cloud & DevOps</strong></p>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/vitorcavalcantesouza" target="_blank">
@@ -22,19 +22,23 @@
 
 ### 🇧🇷 PT-BR
 
-Sou **Desenvolvedor Backend**, com foco no ecossistema **Java e Spring Boot** e interesse em construir APIs, sistemas reativos e aplicações bem estruturadas.
+Sou **Desenvolvedor Backend** com foco em **Java e Spring Boot**, desenvolvendo APIs e sistemas orientados a boas práticas de engenharia de software.
 
-Gosto de trabalhar com **arquitetura limpa, separação de responsabilidades, testes automatizados, persistência de dados, integração entre serviços e ambientes containerizados**. Também venho aprofundando meus conhecimentos em **Cloud, DevOps, observabilidade e sistemas distribuídos**.
+Tenho interesse em **arquitetura de software, design de APIs, persistência de dados, sistemas reativos, testes automatizados, integração entre serviços e aplicações containerizadas**. Também venho aprofundando conhecimentos em **Cloud, DevOps, observabilidade e sistemas distribuídos**.
 
-Tenho experiência com desenvolvimento **mobile em Kotlin e Android**, que utilizo como conhecimento complementar ao backend.
+Meu objetivo é construir software **bem estruturado, testável, resiliente e fácil de evoluir**, sempre buscando equilibrar qualidade técnica e necessidades do negócio.
+
+Como conhecimento complementar, também possuo experiência com **Kotlin e desenvolvimento Android**.
 
 ### 🇺🇸 English
 
-I'm a **Backend Developer** focused on the **Java and Spring Boot** ecosystem, with an interest in building APIs, reactive systems and well-structured applications.
+I'm a **Backend Developer** focused on **Java and Spring Boot**, building APIs and systems guided by software engineering best practices.
 
-I enjoy working with **clean architecture, separation of concerns, automated testing, data persistence, service integration and containerized environments**. I'm also continuously improving my knowledge of **Cloud, DevOps, observability and distributed systems**.
+I'm interested in **software architecture, API design, data persistence, reactive systems, automated testing, service integration and containerized applications**. I'm also continuously improving my knowledge of **Cloud, DevOps, observability and distributed systems**.
 
-I also have experience with **mobile development using Kotlin and Android**, which complements my backend background.
+My goal is to build software that is **well-structured, testable, resilient and easy to evolve**, balancing technical quality with business needs.
+
+I also have complementary experience with **Kotlin and Android development**.
 
 ---
 
@@ -88,25 +92,25 @@ Complementary
 
 ### 🛰️ [PulseWatch](https://github.com/Vitor-C-Souza/pulsewatch)
 
-Real-time telemetry monitoring system built around **Spring WebFlux, Reactor, SSE, R2DBC and PostgreSQL**, exploring reactive streams, resilience and real-time data delivery.
+Real-time telemetry monitoring system built with **Spring WebFlux, Reactor, SSE, R2DBC and PostgreSQL**, exploring reactive streams, resilience and real-time data delivery.
 
 **Highlights:** WebFlux · Reactor · SSE · R2DBC · PostgreSQL · Reactive Programming
 
 ### ⚡ [StreamPulse](https://github.com/Vitor-C-Souza/streampulse)
 
-Backend project focused on stream-oriented processing and reactive application design, reinforcing concepts around asynchronous and event-driven systems.
+Backend project focused on **reactive and stream-oriented processing**, reinforcing concepts around asynchronous and event-driven application design.
 
 **Highlights:** Java · Spring · Reactive Programming · Stream Processing
 
 ### 🏥 [Aesthetix](https://github.com/Vitor-C-Souza/aesthetix)
 
-Backend application for an aesthetic clinic, developed with **Spring Boot** and structured around **Hexagonal Architecture**, with authentication, authorization and persistence.
+Backend application for an aesthetic clinic, developed with **Spring Boot** and structured around **Hexagonal Architecture**, including authentication, authorization and persistence.
 
 **Highlights:** Java · Spring Boot · Spring Security · JWT · MySQL · Hexagonal Architecture
 
 ### 🎴 [DuelistLadder](https://github.com/Vitor-C-Souza/duelistladder)
 
-Application focused on ranking and managing competitive duels, demonstrating backend development applied to a domain-driven use case.
+Backend application focused on **ranking and competitive duel management**, demonstrating API development and domain-oriented backend design.
 
 **Highlights:** Java · Spring Boot · REST API · Backend Architecture
 
@@ -114,7 +118,7 @@ Application focused on ranking and managing competitive duels, demonstrating bac
 
 ## 📚 Currently Learning & Improving
 
-- ☁️ Cloud architecture and **Microsoft Azure**
+- ☁️ **Microsoft Azure** and cloud architecture
 - ☸️ **Kubernetes** and container orchestration
 - 🔭 **Observability** and monitoring
 - 🔄 Reactive and distributed systems
@@ -123,7 +127,7 @@ Application focused on ranking and managing competitive duels, demonstrating bac
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vitor-C-Souza&show_icons=true&theme=omni&count_private=true&hide_border=true" height="170" alt="GitHub Stats" />
@@ -146,5 +150,5 @@ Application focused on ranking and managing competitive duels, demonstrating bac
 
 <div align="center">
   <h3>Let's build something great.</h3>
-  <sub>Fique à vontade para explorar meus repositórios e entrar em contato.</sub>
+  <sub>Explore my repositories and feel free to get in touch.</sub>
 </div>
